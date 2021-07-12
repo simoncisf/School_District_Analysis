@@ -12,19 +12,19 @@ The purpose of this analysis is to help a client analyze student data because of
 ![district_summary](/Users/simon/Desktop/district_summary.png)
 
 ### School Summary
-![Screen Shot 2021-07-11 at 11.24.59 PM](/Users/simon/Desktop/Screen Shot 2021-07-11 at 11.24.59 PM.png)
+![school_summary](/Users/simon/Desktop/school_summary.png)
 
 ### Thomas High School Scores
-![Screen Shot 2021-07-11 at 11.26.52 PM](/Users/simon/Desktop/Screen Shot 2021-07-11 at 11.26.52 PM.png)
+![thomas_scores](/Users/simon/Desktop/thomas_scores.png)
 
 ### Scores by School Spending
-![Screen Shot 2021-07-11 at 11.28.04 PM](/Users/simon/Desktop/Screen Shot 2021-07-11 at 11.28.04 PM.png)
+![scores_spending](/Users/simon/Desktop/scores_spending.png)
 
 ### Scores by School Size
-![Screen Shot 2021-07-11 at 11.29.03 PM](/Users/simon/Desktop/Screen Shot 2021-07-11 at 11.29.03 PM.png)
+![scores_size](/Users/simon/Desktop/scores_size.png)
 
 ### Scores by School Type
-![Screen Shot 2021-07-11 at 11.29.45 PM](/Users/simon/Desktop/Screen Shot 2021-07-11 at 11.29.45 PM.png)
+![scores_type](/Users/simon/Desktop/scores_type.png)
 
 
 ## Summary
