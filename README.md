@@ -29,3 +29,19 @@ The purpose of this analysis is to help a client analyze student data because of
 
 ## Summary
 
+By replacing the 9th grade scores for Thomas High School, our overall analysis changes in the following ways:
+
+* Average math scores dropped slightly
+* Average reading scores were not affected
+* Percentage of students passing math dropped slightly
+* Percentage of students passing reading dropped slightly
+* The overall passing rate dropped
+
+For Thomas High School:
+
+* Perentage of students passing math dropped from 93.2% to 66.9%
+* Percentage of students passing reading dropped from 97.0% to 69.7%
+* Overall passing percentage dropped from 90.6% to 65.1%
+* Thomas High School dropped from the top 5 ranked schools in the district
+
+Overall, when considering the analysis from all three perspectives of school budget, school size, and school ype, the percentage of students passing math and reading dropped. Most significantly, the overall passing percentage dropped in the school budget analysis, perhaps suggesting that few other schools in the same budget bracket had such high passing percentages as Thomas High School did before replacing the 9th grade data.
